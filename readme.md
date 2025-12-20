@@ -405,11 +405,3 @@ Tailwind CSS enables fast, scalable, and responsive UI development by composing 
 ✅ END OF NOTES
 
 ---
-
-### 📌 If you want next:
-- **Interview questions & answers**
-- **MCQs for exams**
-- **Real portfolio layouts**
-- **Printable PDF version**
-
-Just tell me 👍
